@@ -3,3 +3,5 @@
 4321
 iz vetki MAIN hello
 izmenenie dlya 3 zadaniya
+dlya 3 zadania iz vetki zad3
+iz zad3 izmenil first.txt
